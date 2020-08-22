@@ -29,10 +29,10 @@ You can see what I am currently up to on [patferraggi.dev](https://www.patferrag
 ## 📇 Useful Links
 
 <p align='left'>
-<a href="https://dev.to/patferraggi"><img height="30" src="./dev.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/patferraggi"><img height="30" src="./twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/patricio-ferraggi-ares/"><img height="30" src="./linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://buymeacoffee.com/Iul0hT2"><img height="30" src="./by-me-a-coffee.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://cafecito.app/raagh"><img height="30" src="./cafecito_logo.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.patreon.com/patferraggi"><img height="30" src="./patreon.png?raw=true"></a>
+<a href="https://dev.to/patferraggi"><img height="30" src="https://github.com/Raagh/Raagh/raw/master/dev.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/patferraggi"><img height="30" src="https://github.com/Raagh/Raagh/raw/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/patricio-ferraggi-ares/"><img height="30" src="https://github.com/Raagh/Raagh/raw/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://buymeacoffee.com/Iul0hT2"><img height="30" src="https://github.com/Raagh/Raagh/raw/master/by-me-a-coffee.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://cafecito.app/raagh"><img height="30" src="https://github.com/Raagh/Raagh/raw/master/cafecito_logo.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.patreon.com/patferraggi"><img height="30" src="https://github.com/Raagh/Raagh/raw/master/patreon.png?raw=true"></a>
 </p>
