@@ -1,18 +1,18 @@
 ### Hi there 👋
 
-I am a self-taught Software Engineer from Argentina 🇦🇷, currently living in Belgium 🇧🇪. I like to improve my technical skills while helping others do the same.
+I am a self-taught Software Engineer from Argentina 🇦🇷, currently living in Belgium 🇧🇪. I am passionate about improving my technical skills while helping others do the same.
 
 - 🔭 My main stack is
   <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp"  height="30"/>&nbsp;&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angular" height="30"/>&nbsp;&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" height="30"/>&nbsp;&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" height="30"/>
-- 🌱 I’m currently learning **Functional Programming, Software Architecture and Computer Science**
-- 👯 I like to give tutoring to starting developers, if you need some help just raise your hand ✋
-- ✏️ I like to blog about **Software Development, Motivation, Career Advice and Philosophy** on my own Spanish [blog](https://www.patferraggi.dev/blog)
-- 🔭 I’m currently working on `Maruja` and the `Angular/Karma Test Explorer for VSCode`
-- 🤔 I’m looking for 100% remote jobs
-- 💬 Ask me about anything
+- 🌱 I'm currently learning **Functional Programming, Software Architecture and Computer Science**
+- 👯 I like giving tutoring to starting developers, if you need some help just raise your hand ✋
+- ✏️ I like to blog about **Software Development, Motivation, Career Advice and Philosophy** in my own Spanish [blog](https://www.patferraggi.dev/blog)
+- 🔭 I'm currently working on `Maruja` and the `Angular/Karma Test Explorer for VSCode`
+- 🤔 I'm looking for 100% remote jobs
+- 💬 You can ask me about anything
 
 You can see what I am currently up to on [patferraggi.dev](https://www.patferraggi.dev).
 
