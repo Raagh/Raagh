@@ -33,6 +33,6 @@ You can see what I am currently up to on [patferraggi.dev](https://www.patferrag
 <a href="https://twitter.com/patferraggi"><img height="30" src="https://github.com/Raagh/Raagh/raw/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/patricio-ferraggi-ares/"><img height="30" src="https://github.com/Raagh/Raagh/raw/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://buymeacoffee.com/Iul0hT2"><img height="30" src="https://github.com/Raagh/Raagh/raw/master/by-me-a-coffee.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://cafecito.app/raagh"><img height="30" src="https://github.com/Raagh/Raagh/raw/master/cafecito_logo.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://cafecito.app/patferraggi"><img height="30" src="https://github.com/Raagh/Raagh/raw/master/cafecito_logo.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.patreon.com/patferraggi"><img height="30" src="https://github.com/Raagh/Raagh/raw/master/patreon.png?raw=true"></a>
 </p>
