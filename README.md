@@ -3,10 +3,10 @@
 I am a self-taught Software Engineer from Argentina 🇦🇷, currently living in Belgium 🇧🇪. I am passionate about improving my technical skills while helping others do the same.
 
 - 🔭 My main stack is
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp"  height="30"/>&nbsp;&nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angular" height="30"/>&nbsp;&nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" height="30"/>&nbsp;&nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"  height="30"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" height="30"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="30"/>
 - 🌱 I'm currently learning **Functional Programming, Software Architecture and Computer Science**
 - 👯 I like giving tutoring to starting developers, if you need some help just raise your hand ✋
 - ✏️ I like to blog about **Software Development, Motivation, Career Advice and Philosophy** in my own Spanish [blog](https://www.patferraggi.dev/blog)
