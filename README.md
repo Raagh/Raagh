@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a self-taught Software Engineer from Argentina 🇦🇷, currently living in Belgium 🇧🇪. I am passionate about improving my technical skills while helping others do the same.
+I am a self-taught Software Engineer from Argentina 🇦🇷, currently living in Spain 🇪🇸. I am passionate about improving my technical skills while helping others do the same.
 
 - 🔭 My main stack is
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"  height="30"/>&nbsp;&nbsp;
