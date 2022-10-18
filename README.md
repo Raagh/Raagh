@@ -4,13 +4,16 @@ I am a self-taught Software Engineer from Argentina 🇦🇷, currently living i
 
 - 🔭 My main stack is
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"  height="30"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" height="30"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="30"/>
-- 🌱 I'm currently learning **Functional Programming, Software Architecture and Computer Science**
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="30"/>&nbsp;&nbsp;
+  with some 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" height="30"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" height="30"/>&nbsp;&nbsp; from time to time
+- 🌱 I'm currently learning **<s>Functional Programming</s>, Golang
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="golang" height="30"/>&nbsp;&nbsp;, Software Architecture and Computer Science**
 - 👯 I like giving tutoring to starting developers, if you need some help just raise your hand ✋
 - ✏️ I like to blog about **Software Development, Motivation, Career Advice and Philosophy** in my own Spanish [blog](https://www.patferraggi.dev/blog)
-- 🔭 I'm currently working on `Maruja` and the `Angular/Karma Test Explorer for VSCode`
+- 🔭 <s>I'm currently working on `Maruja` and the `Angular/Karma Test Explorer for VSCode`</s>
 - 🤔 I'm looking for 100% remote jobs
 - 💬 You can ask me about anything
 
