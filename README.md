@@ -9,11 +9,10 @@ I am a self-taught Software Engineer from Argentina 🇦🇷, currently living i
   with some 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" height="30"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" height="30"/>&nbsp;&nbsp; from time to time
-- 🌱 I'm currently learning **<s>Functional Programming</s>, Golang
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="golang" height="30"/>&nbsp;&nbsp;, Software Architecture and Computer Science**
-- 👯 I like giving tutoring to starting developers, if you need some help just raise your hand ✋
+- 🌱 I'm currently learning **Golang**
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="golang" height="30"/>&nbsp;&nbsp;, while polishing my knowledge of **Algorithms and Data Structures**
+- 👯 I like giving tutoring to starting developers so if you need some help raise your hand ✋
 - ✏️ I like to blog about **Software Development, Motivation, Career Advice and Philosophy** in my own Spanish [blog](https://www.patferraggi.dev/blog)
-- 🔭 <s>I'm currently working on `Maruja` and the `Angular/Karma Test Explorer for VSCode`</s>
 - 🤔 I'm looking for 100% remote jobs
 - 💬 You can ask me about anything
 
@@ -37,5 +36,4 @@ You can see what I am currently up to on [patferraggi.dev](https://www.patferrag
 <a href="https://www.linkedin.com/in/patricio-ferraggi-ares/"><img height="30" src="https://github.com/Raagh/Raagh/raw/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://buymeacoffee.com/Iul0hT2"><img height="30" src="https://github.com/Raagh/Raagh/raw/master/by-me-a-coffee.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://cafecito.app/patferraggi"><img height="30" src="https://github.com/Raagh/Raagh/raw/master/cafecito_logo.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.patreon.com/patferraggi"><img height="30" src="https://github.com/Raagh/Raagh/raw/master/patreon.png?raw=true"></a>
 </p>
